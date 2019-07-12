@@ -2,10 +2,10 @@ package loveanddiaries.tictales.com.lovediaries.di
 
 import android.content.Context
 import com.google.gson.Gson
-import loveanddiaries.tictales.com.lovediaries.datamanager.AuthDataManager
-import loveanddiaries.tictales.com.lovediaries.datamanager.AuthDataManagerImpl
-import loveanddiaries.tictales.com.lovediaries.datamanager.MainDataManager
-import loveanddiaries.tictales.com.lovediaries.datamanager.MainDataManagerImpl
+import loveanddiaries.tictales.com.lovediaries.datamanagers.AuthDataManager
+import loveanddiaries.tictales.com.lovediaries.datamanagers.AuthDataManagerImpl
+import loveanddiaries.tictales.com.lovediaries.datamanagers.MainDataManager
+import loveanddiaries.tictales.com.lovediaries.datamanagers.MainDataManagerImpl
 import loveanddiaries.tictales.com.lovediaries.network.ApiInterface
 import loveanddiaries.tictales.com.lovediaries.ui.auth.AuthViewModel
 import loveanddiaries.tictales.com.lovediaries.ui.main.MainViewModel

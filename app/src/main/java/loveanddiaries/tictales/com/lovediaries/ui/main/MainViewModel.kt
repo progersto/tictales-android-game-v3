@@ -3,7 +3,7 @@ package loveanddiaries.tictales.com.lovediaries.ui.main
 import android.arch.lifecycle.MutableLiveData
 import android.arch.lifecycle.ViewModel
 
-import loveanddiaries.tictales.com.lovediaries.datamanager.MainDataManager
+import loveanddiaries.tictales.com.lovediaries.datamanagers.MainDataManager
 import loveanddiaries.tictales.com.lovediaries.network.model.Chapter
 
 class MainViewModel(private val dataManager: MainDataManager) : ViewModel() {

@@ -1,4 +1,4 @@
-package loveanddiaries.tictales.com.lovediaries.datamanager
+package loveanddiaries.tictales.com.lovediaries.datamanagers
 
 import android.arch.lifecycle.MutableLiveData
 import android.util.Log

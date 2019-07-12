@@ -1,8 +1,7 @@
-package loveanddiaries.tictales.com.lovediaries.datamanager
+package loveanddiaries.tictales.com.lovediaries.datamanagers
 
 import android.arch.lifecycle.MutableLiveData
 import android.content.Context
-import android.util.Log
 import com.google.android.gms.ads.identifier.AdvertisingIdClient
 import loveanddiaries.tictales.com.lovediaries.network.ApiInterface
 import loveanddiaries.tictales.com.lovediaries.network.model.AuthResponse
