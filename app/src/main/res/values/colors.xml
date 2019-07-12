@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c270b1</color>
+    <color name="colorPrimaryDark">#754d72</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="pink_button_color">#b9245c</color>
+    <color name="pink_button_pressed_color">#ce4478</color>
+    <color name="pink_transparent">#8aff4081</color>
+</resources>

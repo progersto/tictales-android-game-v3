@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Love &amp; Diaries</string>
+
+    <!--Auth section-->
+    <string name="login_button">JOUER MAINTENANT!</string>
+    <string name="second_button">SE CONNECTER</string>
+
+    <!--Main section-->
+    <string name="continue_text">Continuer</string>
+    <string name="chapter_header">Chapitre n°%d</string>
+</resources>
